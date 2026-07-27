@@ -1,30 +1,26 @@
-# Hi, I'm Md Nadeem
+# Md Nadeem
 
-I build production AI systems, automations, and product workflows that hold up after the demo.
+I build production software for companies where a defect becomes a payment, compliance, or operational event.
 
-Founder of [CoEdify](https://coedify.com), where we help teams ship AI automations, agentic workflows, and product systems into real business workflows. The work is practical: find the highest-leverage workflow, design the system around how the business already runs, and ship a working version fast.
+Founder of [CoEdify](https://coedify.com), a six-person product-engineering team in Noida, India. Before that, 7 years at Oracle as an architect on Eloqua, enterprise marketing automation at scale.
 
-Previously, I spent 7 years architecting Oracle Eloqua at enterprise scale. Today I build with a small engineering team, AI coding agents, and tight product discipline.
+### Client work
 
-### What I've shipped
+- **EquippedAI** (now part of Belasko UK), a private-equity management platform. Four engineers, three years: product-suite rebuild, AI integrated into their core platform Minerva, performance work, 75% cloud-cost reduction.
+- Banking and fintech product delivery for **Decimal Technologies**. Engineering on **PeLocal's** AI-powered payments platform and **Zeeve's** enterprise blockchain infrastructure. A financial product for **IQGateway**. Insurtech software for **NVest Solutions**.
+- Currently building a RAG-based platform with natural-language data querying for **Kliq Analytics** (Canada).
 
-- [devsko](https://devsko.com) - a live AI hiring and assessment platform with role-specific evaluation workflows.
-- [revsko](https://revsko.com) - a live, approval-gated, outcome-priced outbound workflow for founder-led B2B services firms.
-- 3-year product engagement for EquippedAI, now part of Belasko UK: product-suite stabilization/refactoring, AI workflow integration into Minerva, performance improvement, operational infrastructure rebuild, and 75% cloud-cost reduction as one concrete outcome.
-- Current AI delivery for Kliq Analytics in Canada: an intelligent RAG-based platform with natural-language data querying.
+### Products
 
-### What I think about
+- **[devsko](https://devsko.com)**, AI hiring and assessment. Live: 10,000+ candidates evaluated, 200+ companies hiring on it.
+- **[revsko](https://revsko.com)**, a GTM system for teams already using Claude Code or Codex. It keeps account and relationship history available to the agent over MCP, and a human approves every external send. We run CoEdify's own outbound on it.
 
-Agentic workflows, context brokers, RAG that survives production, LLM behavior, AI product engineering, spec-driven development, and the reliability work that turns prototypes into operating systems.
-
-I write about this on [LinkedIn](https://www.linkedin.com/in/mdnadeem/).
+If you already run Claude Code or Codex weekly, revsko is built for you specifically.
 
 ### Open source
 
-I am turning small, useful pieces of real agentic work into public repos. Start with [multi-agent-workspace](https://github.com/mdnadeemai/multi-agent-workspace).
+[multi-agent-workspace](https://github.com/mdnadeemai/multi-agent-workspace): a file-based workspace template so coding agents start with project context instead of rebuilding it every session.
 
-### Work with me
+### Elsewhere
 
-If you are a founder, CTO, or operator trying to ship AI into a real workflow, start here:
-
-[coedify.com](https://coedify.com) | nadeem@coedify.com
+[LinkedIn](https://www.linkedin.com/in/mdnadeem/) · [X](https://x.com/mdnadeemai) · [coedify.com](https://coedify.com) · nadeem@coedify.com
