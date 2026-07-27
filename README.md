@@ -2,7 +2,7 @@
 
 I build production software for companies where a defect becomes a payment, compliance, or operational event.
 
-Founder of [CoEdify](https://coedify.com), a six-person product-engineering team in Noida, India. Before that, 7 years at Oracle as an architect on Eloqua, enterprise marketing automation at scale.
+Founder of [CoEdify](https://coedify.com), a highly efficient product-engineering team in Noida, India. Before that, 7 years at Oracle as an architect on Eloqua, enterprise marketing automation at scale.
 
 ### Client work
 
