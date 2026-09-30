@@ -1,3 +1,4 @@
+![AI agents write the code. I make it safe to ship. Agents build, checks prove, an agent reviews, I decide.](banner.png)
 # Md Nadeem
 
 I build production software for companies where a defect becomes a payment, compliance, or operational event.
@@ -13,9 +14,7 @@ Founder of [CoEdify](https://coedify.com), a highly efficient product-engineerin
 ### Products
 
 - **[devsko](https://devsko.com)**, AI hiring and assessment. Live: 10,000+ candidates evaluated, 200+ companies hiring on it.
-- **[revsko](https://revsko.com)**, a GTM system for teams already using Claude Code or Codex. It keeps account and relationship history available to the agent over MCP, and a human approves every external send. We run CoEdify's own outbound on it.
-
-If you already run Claude Code or Codex weekly, revsko is built for you specifically.
+- **[revsko](https://revsko.com)**, sales memory for your AI assistant: account research, sales conversations and follow-ups in one workspace, so you know who to contact next and what to say. You do the sending. We run CoEdify's own outbound on it.
 
 ### Open source
 
